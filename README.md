@@ -9,45 +9,45 @@
 
 Autonomous UAV-mounted treat dispensing system developed in partnership with Alveus Sanctuary.
 
-## Table of Contents here 
+<h2 align="left">Table of Contents</h2>
 
-## Overview
+<h2 align="left">Overview</h2>
 
 2-3 paragraphs of context. What problem does this solve,  
 who is it for, why does it exist
 
-## Features
+<h2 align="left">Features</h2>
 
 - Key capability 1
 - Key capability 2
 - Key capability 3
 
-## Hardware / Requirements
+<h2 align="left">Hardware / Requirements</h2>
 
 What someone needs before they can use this.
 
-## Getting Started
+<h2 align="left">Getting Started</h2>
 
 Step by step — how to get from zero to working.
 
-## Usage
+<h2 align="left">Usage</h2>
 
 How to actually operate it once set up.
 Screenshots or diagrams help here.
 
-## Documentation
+<h2 align="left">Documentation</h2>
 
 Link to your full docs or wiki.
 
-## Contributing
+<h2 align="left">Contributing</h2>
 
 Brief note + link to CONTRIBUTING.md
 
-## License
+<h2 align="left">License</h2>
 
 Apache 2.0 License — \[LICENSE.md\](https://github.com/skbecken/TreatTurbine/blob/main/LICENSE)
 
-## Contact 
+<h2 align="left">Contact</h2>
 
 Sophia Becken - skbecken@bu.edu
 
@@ -61,6 +61,6 @@ Jason Sayah - jsnsayah@bu.edu
 
 Project Link: https://github.com/skbecken/TreatTurbine/tree/main
 
-## Acknowledgements
+<h2 align="left">Acknowledgements</h2>
 
 Alveus Sanctuary, Boston University, RASTIC, Team 223
