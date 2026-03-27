@@ -7,60 +7,86 @@
 
 <h1 align="center">TreatTurbine</h1>
 
-Autonomous UAV-mounted treat dispensing system developed in partnership with Alveus Sanctuary.
-
+ <p align="center">
+    Autonomous UAV-mounted treat dispensing system developed in partnership with Alveus Sanctuary.
+  </p>
+  </div>
+  
 <h2 align="left">Table of Contents</h2>
 
 <h2 align="left">Overview</h2>
-
-2-3 paragraphs of context. What problem does this solve,  
-who is it for, why does it exist
-
+  <p align="left">
+    2-3 paragraphs of context. What problem does this solve, who is it for, why does it exist
+  </p>
+  </div>
+  
 <h2 align="left">Features</h2>
-
-- Key capability 1
-- Key capability 2
-- Key capability 3
-
+  <p align="left">
+    - Key capability 1
+    - Key capability 2
+    - Key capability 3
+  </p>
+  </div>
+  
 <h2 align="left">Hardware / Requirements</h2>
-
-What someone needs before they can use this.
-
+  <p align="left">
+    What someone needs before they can use this.
+  </p>
+  </div>
+  
 <h2 align="left">Getting Started</h2>
+  <p align="left">
+    Step by step — how to get from zero to working.
+  </p>
+  </div>
 
-Step by step — how to get from zero to working.
 
 <h2 align="left">Usage</h2>
-
-How to actually operate it once set up.
-Screenshots or diagrams help here.
+  <p align="left">
+    How to actually operate it once set up.
+    Screenshots or diagrams help here.
+  </p>
+  </div>
 
 <h2 align="left">Documentation</h2>
-
-Link to your full docs or wiki.
+  <p align="left">
+    Link to your full docs or wiki.
+  </p>
+  </div>
 
 <h2 align="left">Contributing</h2>
+  <p align="left">
+    Brief note + link to CONTRIBUTING.md
+  </p>
+  </div>
 
-Brief note + link to CONTRIBUTING.md
 
 <h2 align="left">License</h2>
+  <p align="left">
+    Apache 2.0 License — \[LICENSE.md\](https://github.com/skbecken/TreatTurbine/blob/main/LICENSE)
+  </p>
+  </div>
 
-Apache 2.0 License — \[LICENSE.md\](https://github.com/skbecken/TreatTurbine/blob/main/LICENSE)
 
 <h2 align="left">Contact</h2>
+  <p align="left">
+    Sophia Becken - skbecken@bu.edu
+  
+    Aidan Donovan - 
+  
+    Harrison Grant - 
+  
+    Sofia Kamal - 
+  
+    Jason Sayah - jsnsayah@bu.edu
+  
+    Project Link: https://github.com/skbecken/TreatTurbine/tree/main
+  </p>
+  </div>
 
-Sophia Becken - skbecken@bu.edu
-
-Aidan Donovan - 
-
-Harrison Grant - 
-
-Sofia Kamal - 
-
-Jason Sayah - jsnsayah@bu.edu
-
-Project Link: https://github.com/skbecken/TreatTurbine/tree/main
 
 <h2 align="left">Acknowledgements</h2>
-
-Alveus Sanctuary, Boston University, RASTIC, Team 223
+  <p align="left">
+    Alveus Sanctuary, Boston University, RASTIC, Team 223
+  </p>
+  </div>
