@@ -16,7 +16,7 @@
 
 <h2 align="left">Overview</h2>
   <p align="left">
-    This system is designed to deliver small treats via an unmanned aerial vehicle (UAV). 
+    This system is designed to deliver small treats via an unmanned aerial vehicle (UAV). Its advantages include the capability to reach remote areas, perform pre-programmed jobs, and keeping people far away from the animals it serves. 
   </p>
   </div>
   
@@ -50,7 +50,7 @@
 
 <h2 align="left">Documentation</h2>
   <p align="left">
-    Link to your full docs or wiki.
+    In order to make the Treat Turbine more accessible, considerable effort has gone into documenting and recording the steps required to reproduce it. Instructions, usage notes, 3D print files, and software, can be found in this Github repo. A complete version of the Onshape CAD files ready for your modifications can be found here: https://cad.onshape.com/documents/a14a263d4646380f37314a8a/w/1a27b2a84b8e4b9b2ac841da/e/305afa125aeae7e1aa674fe5?renderMode=0&uiState=69d34d6fe492bf831c8f658f
   </p>
   </div>
 
