@@ -16,15 +16,15 @@
 
 <h2 align="left">Overview</h2>
   <p align="left">
-    2-3 paragraphs of context. What problem does this solve, who is it for, why does it exist
+    This system is designed to deliver small treats via an unmanned aerial vehicle (UAV). 
   </p>
   </div>
   
 <h2 align="left">Features</h2>
   <p align="left">
-    - Key capability 1
-    - Key capability 2
-    - Key capability 3
+    - Versatile, designed to work with different payloads and different drone platforms
+    - Designed to be cheap, easy to manufacture, and easy to use
+    - 
   </p>
   </div>
   
@@ -74,7 +74,7 @@
   
     Aidan Donovan - 
   
-    Harrison Grant - 
+    Harrison Grant - hgrant@bu.edu
   
     Sofia Kamal - 
   
