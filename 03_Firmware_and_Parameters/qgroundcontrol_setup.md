@@ -7,7 +7,7 @@
    1. If you’re on MacOS it should work right out of the box. If on Windows, you may need to install a serial driver to see a connection 
 5. Congrats, you are now ready to configure parameters via Q > Vehicle Configuration or to create a flight plan with Q > Plan flight
 6. If you are setting up an aircraft for the first time, make sure you flash firmware (as outlined in 03 Ardupilot setup) and your parameter list
-
+![[intro-to-Q.png]]
 ## What is QGroundControl?
 
 QGroundControl (QGC) is one of several open source [ground control station](https://ardupilot.org/plane/docs/common-choosing-a-ground-station.html) (GCS) software packages that works with Ardupilot. Each of these GCS programs communicates over the MavLink protocol (which can also be used with Python and other programmatic methods) if more custom behavior is required. 
