@@ -10,7 +10,8 @@
 
 ## What is QGroundControl?
 
-QGroundControl (QGC) is one of several open source [ground control station](https://ardupilot.org/plane/docs/common-choosing-a-ground-station.html) (GCS) software packages that works with Ardupilot. While Ardupilot runs everything onboard the aircraft, the GCS sends and receives information. It is important to note that **no information is stored in the GCS**. This means that once a drone is set up, all of the configuration (parameters and flight plans) are stored onboard the craft unless saved out to a .plan or .param file. These files **must be backed up** so that a crash or lost aircraft does not include loss of data. It also means that the data in QGroundControl is not important, and the pilot is free to move between different computers with QGC installed. 
+QGroundControl (QGC) is one of several open source [ground control station](https://ardupilot.org/plane/docs/common-choosing-a-ground-station.html) (GCS) software packages that works with Ardupilot. Each of these GCS programs communicates over the MavLink protocol (which can also be used with Python and other programmatic methods) if more custom behavior is required. 
+While Ardupilot runs everything onboard the aircraft, the GCS sends and receives information. It is important to note that **no information is stored in the GCS**. This means that once a drone is set up, all of the configuration (parameters and flight plans) are stored onboard the craft unless saved out to a .plan or .param file. These files **must be backed up** so that a crash or lost aircraft does not include loss of data. It also means that the data in QGroundControl is not important, and the pilot is free to move between different computers with QGC installed. 
 
 ## Why QGroundControl?
 
