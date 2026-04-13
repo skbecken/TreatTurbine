@@ -3,7 +3,7 @@
 Autonomous UAV-mounted treat dispensing system developed in partnership with Alveus Sanctuary.
 
 ## Logo
-![[../assets/diagrams/TreatTurbine_Exploded_View.png]]
+![[/../assets/diagrams/TreatTurbine_Exploded_View.png]]
 
 ## Table of Contents
 - Overview  
