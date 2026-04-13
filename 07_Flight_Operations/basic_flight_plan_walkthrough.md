@@ -7,16 +7,16 @@
 ---
 
 ## Table of Contents
-1. [Interface Overview](#1-interface-overview)
-2. [Connecting Your Vehicle](#2-connecting-your-vehicle)
-3. [Opening the Plan View](#3-opening-the-plan-view)
-4. [Creating a Basic Waypoint Mission](#4-creating-a-basic-waypoint-mission)
-5. [Waypoint Parameters Explained](#5-waypoint-parameters-explained)
-6. [Mission Start & Return Settings](#6-mission-start--return-settings)
-7. [Uploading the Mission](#7-uploading-the-mission)
-8. [Starting the Mission](#8-starting-the-mission)
-9. [Monitoring During Flight](#9-monitoring-during-flight)
-10. [Saving & Loading Missions](#10-saving--loading-missions)
+1. [[#1-interface-overview|Interface Overview]]
+2. [[#2-connecting-your-vehicle|Connecting Your Vehicle]]
+3. [[#3-opening-the-plan-view|Opening the Plan View]]
+4. [[#4-creating-a-basic-waypoint-mission|Creating a Basic Waypoint Mission]]
+5. [[#5-waypoint-parameters-explained|Waypoint Parameters Explained]]
+6. [[#6-mission-start--return-settings|Mission Start & Return Settings]]
+7. [[#7-uploading-the-mission|Uploading the Mission]]
+8. [[#8-starting-the-mission|Starting the Mission]]
+9. [[#9-monitoring-during-flight|Monitoring During Flight]]
+10. [[#10-saving--loading-missions|Saving & Loading Missions]]
 
 ---
 
