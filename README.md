@@ -5,7 +5,7 @@
 <img src="assets/diagrams/TreatTurbine_Exploded_View.png" alt="Logo" width="80" height="109">
 </a>
 
-<h1 align="center">TreatTurbine</h1>
+<h1 align="center">TreatTurbined</h1> 
 
  <p align="center">
     Autonomous UAV-mounted treat dispensing system developed in partnership with Alveus Sanctuary.
