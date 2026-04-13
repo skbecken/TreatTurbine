@@ -69,20 +69,21 @@
 
 
 <h2 align="left">Contact</h2>
-  <p align="left">
-    Sophia Becken - skbecken@bu.edu
-  
-    Aidan Donovan - 
-  
-    Harrison Grant - hgrant@bu.edu
-  
-    Sofia Kamal - 
-  
-    Jason Sayah - jsnsayah@bu.edu
-  
-    Project Link: https://github.com/skbecken/TreatTurbine/tree/main
-  </p>
-  </div>
+<p align="left">
+ 
+Sophia Becken - skbecken@bu.edu 
+
+Aidan Donovan - aidanmd@bu.edu
+
+Harrison Grant - hgrant@bu.edu
+
+Sofia Kamal - skamal9@bu.edu
+
+Jason Sayah - jsnsayah@bu.edu
+
+Project Link: https://github.com/skbecken/TreatTurbine/tree/main
+</p>
+</div>
 
 
 <h2 align="left">Acknowledgements</h2>
