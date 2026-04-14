@@ -1,5 +1,4 @@
 #### The Ground Station
-
 - [ ] Computer is charged for the duration of the flight
 - [ ] Computer will not overheat/freeze in the elements
 - [ ] Alerts are both visible and audible (test by changing flight mode while disarmed)
@@ -10,7 +9,6 @@
 - [ ] There are no gyro, accelerometer, GPS errors, or other critical error
 
 #### The Aircraft
-
 - [ ] Each propellor: snugly tightened CW and CCW, as appropriate 
 - [ ] Wires: no loose or dangling wires close to propellors
 - [ ] Battery voltage is appropriate for flight, but under no circumstances lower than 3.7V/cell (14.8V for a 4s battery) - note that reported percentage can be very misleading
@@ -21,7 +19,6 @@
 - [ ] Compass is giving sane readings (verify North reads North etc)
 
 #### The Pilot 
-
 - [ ] IMSAFE 
   - [ ] Illness
   - [ ] Medication
@@ -33,7 +30,6 @@
 - [ ] Is confident in both their abilities and in the technical soundness of the aircraft
 
 #### Regulatory (important, but not safety critical)
-
 - [ ] Remote ID is charged and active
 - [ ] Not operating in a no-fly zone
 - [ ] Part 107 pilot present for any and all commercial operation

@@ -11,14 +11,12 @@
             "id": "5b3d44abee6d3624",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "03_Firmware_and_Parameters/ardupilot_setup.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/diagrams/TreatTurbine_Exploded_View.png"
               },
-              "icon": "lucide-file",
-              "title": "ardupilot_setup"
+              "icon": "lucide-image",
+              "title": "TreatTurbine_Exploded_View"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Firmware_and_Parameters/ardupilot_setup.md",
+                "file": "assets/diagrams/TreatTurbine_Exploded_View.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ardupilot_setup"
+              "title": "Backlinks for TreatTurbine_Exploded_View"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Firmware_and_Parameters/ardupilot_setup.md",
+                "file": "assets/diagrams/TreatTurbine_Exploded_View.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ardupilot_setup"
+              "title": "Outgoing links from TreatTurbine_Exploded_View"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Firmware_and_Parameters/ardupilot_setup.md",
+                "file": "assets/diagrams/TreatTurbine_Exploded_View.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ardupilot_setup"
+              "title": "Outline of TreatTurbine_Exploded_View"
             }
           }
         ]
@@ -185,13 +183,25 @@
   },
   "active": "5b3d44abee6d3624",
   "lastOpenFiles": [
+    "assets/diagrams/TreatTurbine_Exploded_S550.png",
+    "10_3D_Print_Files/10_print_settings.md",
+    "09_Troubleshooting/troubleshooting.md",
+    "08_Maintenance/maintenance.md",
+    "07_Flight_Operations/nominal_operation.md",
+    "07_Flight_Operations/emergency_procedures.md",
+    "07_Flight_Operations/basic_flight_plan_walkthrough.md",
+    "06_Preflight_Checklist/preflight_checklist.md",
     "06_Preflight_Checklist/before_first_flight.md",
-    "03_Firmware_and_Parameters/ardupilot_setup.md",
+    "05_Video_Systems/video_system.md",
+    "04_Servo_and_Dispenser_Config/servo_and_dispenser_config.md",
     "03_Firmware_and_Parameters/qgroundcontrol_setup.md",
+    "03_Firmware_and_Parameters/ardupilot_setup.md",
     "02_Assembly/wiring.md",
     "02_Assembly/treatturbine_assembly.md",
-    "02_Assembly/ManufacturerInstructions.pdf",
     "02_Assembly/Manufacturer_Assembly_Instructions.pdf",
-    "01_Bill_of_Materials/bill_of_materials.md"
+    "02_Assembly/ManufacturerInstructions.pdf",
+    "01_Bill_of_Materials/bill_of_materials.md",
+    "assets/diagrams/TreatTurbine_Exploded_View.png",
+    "README.md"
   ]
 }
