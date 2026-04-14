@@ -1,4 +1,4 @@
-> **A note on RX/TX switching:** Serial signals (like those used for the SiK radio and GPS) send signals from TX and listen to signals on RX. This means, for two devices to communicate properly, their RX and TX lines must be crossed (TX to RX and RX to TX instead of TX to TX and RX to RX). Some devices flip the labels on their RX and TX in a misguided attempt to simplify assembly. Fortunately, the devices will not be damaged by getting the wires wrong, so trying one configuration and then the other is not an issue. 
+> **A note on RX/TX inversion:** Serial signals (like those used for the SiK radio and GPS) send signals from TX and listen to signals on RX. This means, for two devices to communicate properly, their RX and TX lines must be crossed (TX to RX and RX to TX instead of TX to TX and RX to RX). Some devices flip the labels on their RX and TX in a misguided attempt to simplify assembly. Fortunately, the devices will not be damaged by getting the wires wrong, so trying one configuration and then the other is not an issue. 
 
 ## Radio
 
